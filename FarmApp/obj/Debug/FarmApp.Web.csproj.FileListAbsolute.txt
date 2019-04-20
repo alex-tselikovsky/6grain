@@ -1,0 +1,2 @@
+C:\Users\tselo\Documents\6grain\FarmApp\obj\Debug\FarmApp.Web.csprojAssemblyReference.cache
+C:\Users\tselo\Documents\6grain\FarmApp\obj\Debug\FarmApp.Web.csproj.CoreCompileInputs.cache

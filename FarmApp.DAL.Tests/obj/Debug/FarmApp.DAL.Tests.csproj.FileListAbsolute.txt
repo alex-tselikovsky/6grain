@@ -1,0 +1,17 @@
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\FarmApp.DAL.Tests.dll.config
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\FarmApp.DAL.Tests.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\FarmApp.DAL.Tests.pdb
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\EntityFramework.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\FarmApp.DAL.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\nunit.framework.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\FarmApp.DAL.pdb
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\FarmApp.DAL.dll.config
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\EntityFramework.xml
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\bin\Debug\nunit.framework.xml
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\obj\Debug\FarmApp.DAL.Tests.csprojAssemblyReference.cache
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\obj\Debug\FarmApp.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\obj\Debug\FarmApp.DAL.Tests.csproj.CopyComplete
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\obj\Debug\FarmApp.DAL.Tests.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL.Tests\obj\Debug\FarmApp.DAL.Tests.pdb
