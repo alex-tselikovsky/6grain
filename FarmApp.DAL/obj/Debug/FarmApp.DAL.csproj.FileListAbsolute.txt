@@ -1,0 +1,12 @@
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\bin\Debug\FarmApp.DAL.dll.config
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\bin\Debug\FarmApp.DAL.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\bin\Debug\FarmApp.DAL.pdb
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\obj\Debug\FarmApp.DAL.csprojAssemblyReference.cache
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\obj\Debug\FarmApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\obj\Debug\FarmApp.DAL.csproj.CopyComplete
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\obj\Debug\FarmApp.DAL.dll
+C:\Users\tselo\Documents\6grain\FarmApp.DAL\obj\Debug\FarmApp.DAL.pdb
